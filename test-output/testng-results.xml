@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-27T15:54:03 IST" name="Suite" finished-at="2024-02-27T15:54:30 IST" duration-ms="26431">
+    <groups>
+    </groups>
+    <test started-at="2024-02-27T15:54:03 IST" name="Test" finished-at="2024-02-27T15:54:30 IST" duration-ms="26431">
+      <class name="com.mystore.testcases.TC_CheckOutRemovePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mystore.testcases.TC_CheckOutRemovePageTest@7526515b]" started-at="2024-02-27T15:54:26 IST" name="setup" finished-at="2024-02-27T15:54:28 IST" duration-ms="1444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyCheckOutRemoveValidation()[pri:0, instance:com.mystore.testcases.TC_CheckOutRemovePageTest@7526515b]" started-at="2024-02-27T15:54:28 IST" name="VerifyCheckOutRemoveValidation" finished-at="2024-02-27T15:54:29 IST" duration-ms="1681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyCheckOutRemoveValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mystore.testcases.TC_CheckOutRemovePageTest@7526515b]" started-at="2024-02-27T15:54:29 IST" name="tearDown" finished-at="2024-02-27T15:54:30 IST" duration-ms="227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mystore.testcases.TC_CheckOutRemovePageTest -->
+      <class name="com.mystore.testcases.TC_OrderRemoveTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mystore.testcases.TC_OrderRemoveTest@26d9b808]" started-at="2024-02-27T15:54:14 IST" name="setup" finished-at="2024-02-27T15:54:16 IST" duration-ms="1745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyOrderRemoval()[pri:0, instance:com.mystore.testcases.TC_OrderRemoveTest@26d9b808]" started-at="2024-02-27T15:54:16 IST" name="VerifyOrderRemoval" finished-at="2024-02-27T15:54:18 IST" duration-ms="2264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyOrderRemoval -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mystore.testcases.TC_OrderRemoveTest@26d9b808]" started-at="2024-02-27T15:54:18 IST" name="tearDown" finished-at="2024-02-27T15:54:18 IST" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mystore.testcases.TC_OrderRemoveTest -->
+      <class name="com.mystore.testcases.TC_ProductPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mystore.testcases.TC_ProductPageTest@740cae06]" started-at="2024-02-27T15:54:10 IST" name="setup" finished-at="2024-02-27T15:54:11 IST" duration-ms="1624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyBuyProduct()[pri:0, instance:com.mystore.testcases.TC_ProductPageTest@740cae06]" started-at="2024-02-27T15:54:11 IST" name="VerifyBuyProduct" finished-at="2024-02-27T15:54:14 IST" duration-ms="2256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyBuyProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mystore.testcases.TC_ProductPageTest@740cae06]" started-at="2024-02-27T15:54:14 IST" name="tearDown" finished-at="2024-02-27T15:54:14 IST" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mystore.testcases.TC_ProductPageTest -->
+      <class name="com.mystore.testcases.TC_CheckOutPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mystore.testcases.TC_CheckOutPageTest@644baf4a]" started-at="2024-02-27T15:54:22 IST" name="setup" finished-at="2024-02-27T15:54:23 IST" duration-ms="1537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyCheckOutValidation()[pri:0, instance:com.mystore.testcases.TC_CheckOutPageTest@644baf4a]" started-at="2024-02-27T15:54:23 IST" name="VerifyCheckOutValidation" finished-at="2024-02-27T15:54:26 IST" duration-ms="2607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyCheckOutValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mystore.testcases.TC_CheckOutPageTest@644baf4a]" started-at="2024-02-27T15:54:26 IST" name="tearDown" finished-at="2024-02-27T15:54:26 IST" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mystore.testcases.TC_CheckOutPageTest -->
+      <class name="com.mystore.testcases.TC_ItemSortTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mystore.testcases.TC_ItemSortTest@f78a47e]" started-at="2024-02-27T15:54:18 IST" name="setup" finished-at="2024-02-27T15:54:20 IST" duration-ms="1444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifySortOrder()[pri:0, instance:com.mystore.testcases.TC_ItemSortTest@f78a47e]" started-at="2024-02-27T15:54:20 IST" name="VerifySortOrder" finished-at="2024-02-27T15:54:21 IST" duration-ms="1965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySortOrder -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mystore.testcases.TC_ItemSortTest@f78a47e]" started-at="2024-02-27T15:54:21 IST" name="tearDown" finished-at="2024-02-27T15:54:22 IST" duration-ms="261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mystore.testcases.TC_ItemSortTest -->
+      <class name="com.mystore.testcases.TC_MyAccountPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mystore.testcases.TC_MyAccountPageTest@3646a422]" started-at="2024-02-27T15:54:03 IST" name="setup" finished-at="2024-02-27T15:54:08 IST" duration-ms="4410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyLogin()[pri:0, instance:com.mystore.testcases.TC_MyAccountPageTest@3646a422]" started-at="2024-02-27T15:54:08 IST" name="VerifyLogin" finished-at="2024-02-27T15:54:09 IST" duration-ms="1415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mystore.testcases.TC_MyAccountPageTest@3646a422]" started-at="2024-02-27T15:54:09 IST" name="tearDown" finished-at="2024-02-27T15:54:10 IST" duration-ms="542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mystore.testcases.TC_MyAccountPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

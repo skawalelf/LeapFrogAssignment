@@ -1,0 +1,699 @@
+[INFO ] 2024-02-16 16:56:54.708 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-16 16:56:54.733 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-02-16 16:56:54.809 [main] MyStoreV1 - User name entered
+[INFO ] 2024-02-16 16:58:48.764 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-16 16:58:48.783 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-02-16 16:58:48.906 [main] MyStoreV1 - User name entered
+[INFO ] 2024-02-16 17:06:16.263 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-16 17:06:16.286 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-02-16 17:06:16.367 [main] MyStoreV1 - User name entered
+[INFO ] 2024-02-16 17:06:16.410 [main] MyStoreV1 - password entered
+[INFO ] 2024-02-16 17:06:16.500 [main] MyStoreV1 - clicked om Login
+[INFO ] 2024-02-16 17:06:16.501 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-02-16 17:08:29.771 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-16 17:08:29.788 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-02-16 17:08:29.933 [main] MyStoreV1 - User name entered
+[INFO ] 2024-02-16 17:08:30.042 [main] MyStoreV1 - password entered
+[INFO ] 2024-02-16 17:08:31.048 [main] MyStoreV1 - clicked om Login
+[INFO ] 2024-02-16 17:08:31.049 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-02-16 17:12:00.296 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-16 17:12:00.317 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-02-16 17:12:00.455 [main] MyStoreV1 - User name entered
+[INFO ] 2024-02-16 17:12:00.560 [main] MyStoreV1 - password entered
+[INFO ] 2024-02-16 17:12:01.494 [main] MyStoreV1 - clicked om Login
+[INFO ] 2024-02-16 17:12:01.494 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-02-16 22:41:46.716 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-16 22:41:46.736 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-02-16 22:41:46.877 [main] MyStoreV1 - User name entered
+[INFO ] 2024-02-16 22:41:46.964 [main] MyStoreV1 - password entered
+[INFO ] 2024-02-16 22:41:48.666 [main] MyStoreV1 - clicked om Login
+[INFO ] 2024-02-16 22:41:48.666 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-02-16 22:41:50.253 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-16 22:41:50.256 [main] MyStoreV1 - 
+
+[INFO ] 2024-02-16 23:04:51.258 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-16 23:04:51.282 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-02-16 23:04:51.458 [main] MyStoreV1 - User name entered
+[INFO ] 2024-02-16 23:04:51.555 [main] MyStoreV1 - password entered
+[INFO ] 2024-02-16 23:04:52.466 [main] MyStoreV1 - clicked om Login
+[INFO ] 2024-02-16 23:04:52.466 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-02-16 23:04:54.266 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-16 23:04:54.267 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-02-16 23:04:54.493 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-16 23:04:55.412 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-16 23:12:31.942 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-16 23:12:31.965 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-02-16 23:12:32.070 [main] MyStoreV1 - User name entered
+[INFO ] 2024-02-16 23:12:32.129 [main] MyStoreV1 - password entered
+[INFO ] 2024-02-16 23:12:33.291 [main] MyStoreV1 - clicked om Login
+[INFO ] 2024-02-16 23:12:33.291 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-02-16 23:12:34.702 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-16 23:12:34.705 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-02-16 23:12:34.926 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-16 23:12:35.849 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-16 23:26:16.286 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-16 23:26:16.311 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-02-16 23:26:16.467 [main] MyStoreV1 - User name entered
+[INFO ] 2024-02-16 23:26:16.554 [main] MyStoreV1 - password entered
+[INFO ] 2024-02-16 23:26:17.356 [main] MyStoreV1 - clicked om Login
+[INFO ] 2024-02-16 23:26:17.356 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-02-16 23:26:19.468 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-16 23:26:19.470 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-02-16 23:26:19.771 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-16 23:26:20.722 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-16 23:35:34.115 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-16 23:35:34.133 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-02-16 23:35:34.235 [main] MyStoreV1 - User name entered
+[INFO ] 2024-02-16 23:35:34.292 [main] MyStoreV1 - password entered
+[INFO ] 2024-02-16 23:35:35.853 [main] MyStoreV1 - clicked om Login
+[INFO ] 2024-02-16 23:35:35.854 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-02-16 23:35:37.485 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-16 23:35:37.488 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-02-16 23:35:37.723 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-16 23:35:38.957 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-16 23:35:39.159 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-16 23:35:39.472 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-16 23:35:39.508 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
+[INFO ] 2024-02-16 23:37:53.632 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-16 23:37:53.663 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-02-16 23:37:54.067 [main] MyStoreV1 - User name entered
+[INFO ] 2024-02-16 23:37:54.194 [main] MyStoreV1 - password entered
+[INFO ] 2024-02-16 23:37:55.003 [main] MyStoreV1 - clicked om Login
+[INFO ] 2024-02-16 23:37:55.004 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-02-16 23:37:56.718 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-16 23:37:56.720 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-02-16 23:37:56.997 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-16 23:37:57.902 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-16 23:37:58.101 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-16 23:37:58.258 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-16 23:37:58.308 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
+[INFO ] 2024-02-18 12:58:44.075 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-18 12:58:44.096 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-02-18 12:58:44.224 [main] MyStoreV1 - User name entered
+[INFO ] 2024-02-18 12:58:44.310 [main] MyStoreV1 - password entered
+[INFO ] 2024-02-18 12:58:45.436 [main] MyStoreV1 - clicked om Login
+[INFO ] 2024-02-18 12:58:45.436 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-02-18 12:58:46.924 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-18 12:58:46.926 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-02-18 12:58:47.155 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-18 12:58:48.119 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-18 12:58:48.373 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-18 12:58:48.922 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-18 12:58:48.972 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
+[INFO ] 2024-02-20 10:53:57.891 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 10:53:57.917 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-02-20 10:53:58.099 [main] MyStoreV1 - User name entered
+[INFO ] 2024-02-20 10:53:58.313 [main] MyStoreV1 - password entered
+[INFO ] 2024-02-20 10:53:59.351 [main] MyStoreV1 - clicked om Login
+[INFO ] 2024-02-20 10:53:59.352 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-02-20 10:54:01.667 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 10:54:01.669 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-02-20 10:54:02.040 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 10:54:02.975 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 10:54:03.338 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-20 10:54:03.525 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-20 10:54:03.570 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
+[INFO ] 2024-02-20 11:48:00.038 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 11:48:00.066 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-02-20 11:48:00.293 [main] MyStoreV1 - User name entered
+[INFO ] 2024-02-20 11:48:00.391 [main] MyStoreV1 - password entered
+[INFO ] 2024-02-20 11:48:01.293 [main] MyStoreV1 - clicked om Login
+[INFO ] 2024-02-20 11:48:01.293 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-02-20 11:48:02.877 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 11:48:02.878 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-02-20 11:48:03.170 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 11:48:03.760 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 11:48:04.032 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-20 11:48:04.430 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-20 11:48:04.500 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
+[INFO ] 2024-02-20 11:48:06.074 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 11:48:06.075 [main] MyStoreV1 - 
+***************TestCase remove items from the cart started*****************
+[INFO ] 2024-02-20 11:48:06.316 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 11:48:06.953 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 11:48:07.156 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-20 11:48:07.319 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-20 11:48:07.368 [main] MyStoreV1 - Cart quantity is greater than zero
+[INFO ] 2024-02-20 11:48:07.534 [main] MyStoreV1 - clicked on remove button
+[INFO ] 2024-02-20 11:48:07.534 [main] MyStoreV1 - ***************TestCase remove items from the cart ends*****************
+[INFO ] 2024-02-20 11:49:50.805 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 11:49:50.840 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-02-20 11:49:50.996 [main] MyStoreV1 - User name entered
+[INFO ] 2024-02-20 11:49:51.080 [main] MyStoreV1 - password entered
+[INFO ] 2024-02-20 11:49:51.800 [main] MyStoreV1 - clicked om Login
+[INFO ] 2024-02-20 11:49:51.801 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-02-20 11:49:53.345 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 11:49:53.347 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-02-20 11:49:53.570 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 11:49:54.298 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 11:49:54.618 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-20 11:49:54.775 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-20 11:49:54.820 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
+[INFO ] 2024-02-20 11:49:56.490 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 11:49:56.493 [main] MyStoreV1 - 
+***************TestCase remove items from the cart started*****************
+[INFO ] 2024-02-20 11:49:56.752 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 11:49:57.317 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 11:49:57.804 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-20 11:49:58.038 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-20 11:49:58.089 [main] MyStoreV1 - Cart quantity is greater than zero
+[INFO ] 2024-02-20 11:49:58.534 [main] MyStoreV1 - clicked on remove button
+[INFO ] 2024-02-20 11:49:58.534 [main] MyStoreV1 - Removed Cart quantity is greater than zero
+[INFO ] 2024-02-20 11:49:58.534 [main] MyStoreV1 - ***************TestCase remove items from the cart ends*****************
+[INFO ] 2024-02-20 13:50:48.667 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 13:50:48.689 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-02-20 13:50:48.915 [main] MyStoreV1 - User name entered
+[INFO ] 2024-02-20 13:50:49.002 [main] MyStoreV1 - password entered
+[INFO ] 2024-02-20 13:50:49.998 [main] MyStoreV1 - clicked om Login
+[INFO ] 2024-02-20 13:50:49.998 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-02-20 13:50:51.530 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 13:50:51.532 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-02-20 13:50:51.764 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 13:50:52.401 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 13:50:52.663 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-20 13:50:53.203 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-20 13:50:53.236 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
+[INFO ] 2024-02-20 13:50:54.642 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 13:50:54.646 [main] MyStoreV1 - 
+***************TestCase remove items from the cart started*****************
+[INFO ] 2024-02-20 13:50:54.879 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 13:50:55.599 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 13:50:55.865 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-20 13:50:56.071 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-20 13:50:56.109 [main] MyStoreV1 - Cart quantity is greater than zero
+[INFO ] 2024-02-20 13:50:56.272 [main] MyStoreV1 - clicked on remove button
+[INFO ] 2024-02-20 13:50:56.272 [main] MyStoreV1 - Removed Cart quantity is greater than zero
+[INFO ] 2024-02-20 13:50:56.272 [main] MyStoreV1 - ***************TestCase remove items from the cart ends*****************
+[INFO ] 2024-02-20 13:50:57.808 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 13:50:57.810 [main] MyStoreV1 - 
+***************TestCase cart items sort started*****************
+[INFO ] 2024-02-20 13:50:57.987 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 13:50:58.674 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 13:50:58.677 [main] MyStoreV1 - click on Name (A to Z) and fetch first value
+[INFO ] 2024-02-20 13:56:29.201 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 13:56:29.218 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-02-20 13:56:29.424 [main] MyStoreV1 - User name entered
+[INFO ] 2024-02-20 13:56:29.511 [main] MyStoreV1 - password entered
+[INFO ] 2024-02-20 13:56:30.510 [main] MyStoreV1 - clicked om Login
+[INFO ] 2024-02-20 13:56:30.510 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-02-20 13:56:31.872 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 13:56:31.875 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-02-20 13:56:32.087 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 13:56:32.834 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 13:56:33.092 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-20 13:56:33.238 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-20 13:56:33.278 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
+[INFO ] 2024-02-20 13:56:34.883 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 13:56:34.885 [main] MyStoreV1 - 
+***************TestCase remove items from the cart started*****************
+[INFO ] 2024-02-20 13:56:35.132 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 13:56:35.757 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 13:56:36.068 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-20 13:56:36.204 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-20 13:56:36.269 [main] MyStoreV1 - Cart quantity is greater than zero
+[INFO ] 2024-02-20 13:56:36.451 [main] MyStoreV1 - clicked on remove button
+[INFO ] 2024-02-20 13:56:36.451 [main] MyStoreV1 - Removed Cart quantity is greater than zero
+[INFO ] 2024-02-20 13:56:36.451 [main] MyStoreV1 - ***************TestCase remove items from the cart ends*****************
+[INFO ] 2024-02-20 13:56:37.899 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 13:56:37.900 [main] MyStoreV1 - 
+***************TestCase cart items sort started*****************
+[INFO ] 2024-02-20 13:56:38.144 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 13:56:38.811 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 13:56:38.813 [main] MyStoreV1 - click on Name (A to Z) and fetch first value
+[INFO ] 2024-02-20 13:56:39.013 [main] MyStoreV1 - click on Name (z to a) and fetch last value
+[INFO ] 2024-02-20 13:56:39.230 [main] MyStoreV1 - ***************TestCase sort cart items from the cart ends*****************
+[INFO ] 2024-02-20 14:00:32.848 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 14:00:32.866 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-02-20 14:00:33.104 [main] MyStoreV1 - User name entered
+[INFO ] 2024-02-20 14:00:33.196 [main] MyStoreV1 - password entered
+[INFO ] 2024-02-20 14:00:33.978 [main] MyStoreV1 - clicked om Login
+[INFO ] 2024-02-20 14:00:33.978 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-02-20 14:00:35.458 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 14:00:35.461 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-02-20 14:00:35.701 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 14:00:36.409 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 14:00:36.689 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-20 14:00:36.837 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-20 14:00:36.885 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
+[INFO ] 2024-02-20 14:00:38.286 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 14:00:38.287 [main] MyStoreV1 - 
+***************TestCase remove items from the cart started*****************
+[INFO ] 2024-02-20 14:00:38.513 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 14:00:39.175 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 14:00:39.464 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-20 14:00:39.670 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-20 14:00:39.729 [main] MyStoreV1 - Cart quantity is greater than zero
+[INFO ] 2024-02-20 14:00:39.930 [main] MyStoreV1 - clicked on remove button
+[INFO ] 2024-02-20 14:00:39.930 [main] MyStoreV1 - Removed Cart quantity is greater than zero
+[INFO ] 2024-02-20 14:00:39.932 [main] MyStoreV1 - ***************TestCase remove items from the cart ends*****************
+[INFO ] 2024-02-20 14:00:41.338 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 14:00:41.340 [main] MyStoreV1 - 
+***************TestCase cart items sort started*****************
+[INFO ] 2024-02-20 14:00:41.589 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 14:00:42.306 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 14:00:42.309 [main] MyStoreV1 - click on Name (A to Z) and fetch first value
+[INFO ] 2024-02-20 14:00:42.489 [main] MyStoreV1 - click on Name (z to a) and fetch last value
+[INFO ] 2024-02-20 14:00:42.739 [main] MyStoreV1 - click on Price (low to high) and fetch first value
+[INFO ] 2024-02-20 14:03:11.100 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 14:03:11.123 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-02-20 14:03:11.281 [main] MyStoreV1 - User name entered
+[INFO ] 2024-02-20 14:03:11.369 [main] MyStoreV1 - password entered
+[INFO ] 2024-02-20 14:03:12.008 [main] MyStoreV1 - clicked om Login
+[INFO ] 2024-02-20 14:03:12.008 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-02-20 14:03:13.499 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 14:03:13.501 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-02-20 14:03:13.737 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 14:03:14.426 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 14:03:14.685 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-20 14:03:15.050 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-20 14:03:15.111 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
+[INFO ] 2024-02-20 14:03:16.480 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 14:03:16.481 [main] MyStoreV1 - 
+***************TestCase remove items from the cart started*****************
+[INFO ] 2024-02-20 14:03:16.697 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 14:03:17.321 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 14:03:17.640 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-20 14:03:17.781 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-20 14:03:17.823 [main] MyStoreV1 - Cart quantity is greater than zero
+[INFO ] 2024-02-20 14:03:17.987 [main] MyStoreV1 - clicked on remove button
+[INFO ] 2024-02-20 14:03:17.987 [main] MyStoreV1 - Removed Cart quantity is greater than zero
+[INFO ] 2024-02-20 14:03:17.987 [main] MyStoreV1 - ***************TestCase remove items from the cart ends*****************
+[INFO ] 2024-02-20 14:03:19.493 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 14:03:19.495 [main] MyStoreV1 - 
+***************TestCase cart items sort started*****************
+[INFO ] 2024-02-20 14:03:19.774 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 14:03:20.471 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 14:03:20.472 [main] MyStoreV1 - click on Name (A to Z) and fetch first value
+[INFO ] 2024-02-20 14:03:20.680 [main] MyStoreV1 - click on Name (z to a) and fetch last value
+[INFO ] 2024-02-20 14:03:20.835 [main] MyStoreV1 - click on Price (low to high) and fetch first value
+[INFO ] 2024-02-20 14:03:21.059 [main] MyStoreV1 - click on Price (high to low) and fetch last value
+[INFO ] 2024-02-20 14:03:21.265 [main] MyStoreV1 - ***************TestCase sort cart items from the cart ends*****************
+[INFO ] 2024-02-20 14:51:45.028 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 14:51:45.048 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-02-20 14:51:45.242 [main] MyStoreV1 - User name entered
+[INFO ] 2024-02-20 14:51:45.335 [main] MyStoreV1 - password entered
+[INFO ] 2024-02-20 14:51:46.236 [main] MyStoreV1 - clicked om Login
+[INFO ] 2024-02-20 14:51:46.236 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-02-20 14:51:47.618 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 14:51:47.622 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-02-20 14:51:47.836 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 14:51:48.484 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 14:51:48.737 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-20 14:51:49.163 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-20 14:51:49.217 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
+[INFO ] 2024-02-20 14:51:50.618 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 14:51:50.621 [main] MyStoreV1 - 
+***************TestCase remove items from the cart started*****************
+[INFO ] 2024-02-20 14:51:50.895 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 14:51:51.626 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 14:51:51.850 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-20 14:51:51.980 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-20 14:51:52.025 [main] MyStoreV1 - Cart quantity is greater than zero
+[INFO ] 2024-02-20 14:51:52.218 [main] MyStoreV1 - clicked on remove button
+[INFO ] 2024-02-20 14:51:52.218 [main] MyStoreV1 - Removed Cart quantity is greater than zero
+[INFO ] 2024-02-20 14:51:52.219 [main] MyStoreV1 - ***************TestCase remove items from the cart ends*****************
+[INFO ] 2024-02-20 14:51:53.678 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 14:51:53.680 [main] MyStoreV1 - 
+***************TestCase cart items sort started*****************
+[INFO ] 2024-02-20 14:51:53.940 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 14:51:54.719 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 14:51:54.721 [main] MyStoreV1 - click on Name (A to Z) and fetch first value
+[INFO ] 2024-02-20 14:51:54.877 [main] MyStoreV1 - click on Name (z to a) and fetch last value
+[INFO ] 2024-02-20 14:51:55.066 [main] MyStoreV1 - click on Price (low to high) and fetch first value
+[INFO ] 2024-02-20 14:51:55.233 [main] MyStoreV1 - click on Price (high to low) and fetch last value
+[INFO ] 2024-02-20 14:51:55.330 [main] MyStoreV1 - ***************TestCase sort cart items from the cart ends*****************
+[INFO ] 2024-02-20 14:51:56.676 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 14:51:56.678 [main] MyStoreV1 - 
+***************TestCase checkout validation started*****************
+[INFO ] 2024-02-20 14:51:56.896 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 14:51:57.532 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 14:51:57.883 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-20 14:51:58.014 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-20 14:51:58.076 [main] MyStoreV1 - Cart quantity is greater than zero
+[INFO ] 2024-02-20 14:51:58.419 [main] MyStoreV1 - Clicked on continue on check out page
+[INFO ] 2024-02-20 14:53:54.394 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 14:53:54.420 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-02-20 14:53:54.579 [main] MyStoreV1 - User name entered
+[INFO ] 2024-02-20 14:53:54.658 [main] MyStoreV1 - password entered
+[INFO ] 2024-02-20 14:53:55.858 [main] MyStoreV1 - clicked om Login
+[INFO ] 2024-02-20 14:53:55.858 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-02-20 14:53:57.231 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 14:53:57.234 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-02-20 14:53:57.436 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 14:53:58.188 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 14:53:58.477 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-20 14:53:58.872 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-20 14:53:58.922 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
+[INFO ] 2024-02-20 14:54:00.301 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 14:54:00.303 [main] MyStoreV1 - 
+***************TestCase remove items from the cart started*****************
+[INFO ] 2024-02-20 14:54:00.536 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 14:54:01.182 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 14:54:01.404 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-20 14:54:01.528 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-20 14:54:01.579 [main] MyStoreV1 - Cart quantity is greater than zero
+[INFO ] 2024-02-20 14:54:01.744 [main] MyStoreV1 - clicked on remove button
+[INFO ] 2024-02-20 14:54:01.744 [main] MyStoreV1 - Removed Cart quantity is greater than zero
+[INFO ] 2024-02-20 14:54:01.744 [main] MyStoreV1 - ***************TestCase remove items from the cart ends*****************
+[INFO ] 2024-02-20 14:54:03.198 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 14:54:03.199 [main] MyStoreV1 - 
+***************TestCase cart items sort started*****************
+[INFO ] 2024-02-20 14:54:03.444 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 14:54:04.184 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 14:54:04.185 [main] MyStoreV1 - click on Name (A to Z) and fetch first value
+[INFO ] 2024-02-20 14:54:04.374 [main] MyStoreV1 - click on Name (z to a) and fetch last value
+[INFO ] 2024-02-20 14:54:04.563 [main] MyStoreV1 - click on Price (low to high) and fetch first value
+[INFO ] 2024-02-20 14:54:04.701 [main] MyStoreV1 - click on Price (high to low) and fetch last value
+[INFO ] 2024-02-20 14:54:04.792 [main] MyStoreV1 - ***************TestCase sort cart items from the cart ends*****************
+[INFO ] 2024-02-20 14:54:06.223 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 14:54:06.225 [main] MyStoreV1 - 
+***************TestCase checkout validation started*****************
+[INFO ] 2024-02-20 14:54:06.515 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 14:54:07.163 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 14:54:07.445 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-20 14:54:07.591 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-20 14:54:07.655 [main] MyStoreV1 - Cart quantity is greater than zero
+[INFO ] 2024-02-20 14:54:07.847 [main] MyStoreV1 - Clicked on continue on check out page
+[INFO ] 2024-02-20 14:54:07.985 [main] MyStoreV1 - Clicked on continue and enter first name check out page
+[INFO ] 2024-02-20 14:54:08.166 [main] MyStoreV1 - Clicked on continue and enter lastname name check out page
+[INFO ] 2024-02-20 14:55:26.984 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 14:55:27.010 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-02-20 14:55:27.153 [main] MyStoreV1 - User name entered
+[INFO ] 2024-02-20 14:55:27.227 [main] MyStoreV1 - password entered
+[INFO ] 2024-02-20 14:55:27.845 [main] MyStoreV1 - clicked om Login
+[INFO ] 2024-02-20 14:55:27.845 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-02-20 14:55:29.287 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 14:55:29.289 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-02-20 14:55:29.541 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 14:55:30.384 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 14:55:30.694 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-20 14:55:30.834 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-20 14:55:30.885 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
+[INFO ] 2024-02-20 14:55:32.311 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 14:55:32.314 [main] MyStoreV1 - 
+***************TestCase remove items from the cart started*****************
+[INFO ] 2024-02-20 14:55:32.596 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 14:55:33.309 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 14:55:33.616 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-20 14:55:33.814 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-20 14:55:33.880 [main] MyStoreV1 - Cart quantity is greater than zero
+[INFO ] 2024-02-20 14:55:34.079 [main] MyStoreV1 - clicked on remove button
+[INFO ] 2024-02-20 14:55:34.079 [main] MyStoreV1 - Removed Cart quantity is greater than zero
+[INFO ] 2024-02-20 14:55:34.080 [main] MyStoreV1 - ***************TestCase remove items from the cart ends*****************
+[INFO ] 2024-02-20 14:55:35.477 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 14:55:35.479 [main] MyStoreV1 - 
+***************TestCase cart items sort started*****************
+[INFO ] 2024-02-20 14:55:35.699 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 14:55:36.360 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 14:55:36.362 [main] MyStoreV1 - click on Name (A to Z) and fetch first value
+[INFO ] 2024-02-20 14:55:36.503 [main] MyStoreV1 - click on Name (z to a) and fetch last value
+[INFO ] 2024-02-20 14:55:36.647 [main] MyStoreV1 - click on Price (low to high) and fetch first value
+[INFO ] 2024-02-20 14:55:36.802 [main] MyStoreV1 - click on Price (high to low) and fetch last value
+[INFO ] 2024-02-20 14:55:36.899 [main] MyStoreV1 - ***************TestCase sort cart items from the cart ends*****************
+[INFO ] 2024-02-20 14:55:38.172 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 14:55:38.174 [main] MyStoreV1 - 
+***************TestCase checkout validation started*****************
+[INFO ] 2024-02-20 14:55:38.434 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 14:55:39.097 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 14:55:39.395 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-20 14:55:39.601 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-20 14:55:39.654 [main] MyStoreV1 - Cart quantity is greater than zero
+[INFO ] 2024-02-20 14:55:39.823 [main] MyStoreV1 - Clicked on continue on check out page
+[INFO ] 2024-02-20 14:55:39.959 [main] MyStoreV1 - Clicked on continue and enter first name check out page
+[INFO ] 2024-02-20 14:55:40.146 [main] MyStoreV1 - ***************TestCase check out validation ends*****************
+[INFO ] 2024-02-20 16:12:31.454 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 16:12:31.473 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-02-20 16:12:31.596 [main] MyStoreV1 - User name entered
+[INFO ] 2024-02-20 16:12:31.658 [main] MyStoreV1 - password entered
+[INFO ] 2024-02-20 16:12:33.325 [main] MyStoreV1 - clicked om Login
+[INFO ] 2024-02-20 16:12:33.325 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-02-20 16:12:35.326 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 16:12:35.329 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-02-20 16:12:35.579 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 16:12:36.500 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 16:12:36.708 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-20 16:12:37.377 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-20 16:12:37.413 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
+[INFO ] 2024-02-20 16:12:39.364 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 16:12:39.365 [main] MyStoreV1 - 
+***************TestCase remove items from the cart started*****************
+[INFO ] 2024-02-20 16:12:39.936 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 16:12:40.101 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 16:12:41.027 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-20 16:12:41.151 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-20 16:12:41.217 [main] MyStoreV1 - Cart quantity is greater than zero
+[INFO ] 2024-02-20 16:12:41.617 [main] MyStoreV1 - clicked on remove button
+[INFO ] 2024-02-20 16:12:41.617 [main] MyStoreV1 - Removed Cart quantity is greater than zero
+[INFO ] 2024-02-20 16:12:41.617 [main] MyStoreV1 - ***************TestCase remove items from the cart ends*****************
+[INFO ] 2024-02-20 16:12:43.671 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 16:12:43.673 [main] MyStoreV1 - 
+***************TestCase cart items sort started*****************
+[INFO ] 2024-02-20 16:12:44.138 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 16:12:45.249 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 16:12:45.252 [main] MyStoreV1 - click on Name (A to Z) and fetch first value
+[INFO ] 2024-02-20 16:12:45.423 [main] MyStoreV1 - click on Name (z to a) and fetch last value
+[INFO ] 2024-02-20 16:12:45.642 [main] MyStoreV1 - click on Price (low to high) and fetch first value
+[INFO ] 2024-02-20 16:12:45.751 [main] MyStoreV1 - click on Price (high to low) and fetch last value
+[INFO ] 2024-02-20 16:12:45.994 [main] MyStoreV1 - ***************TestCase sort cart items from the cart ends*****************
+[INFO ] 2024-02-20 16:12:47.579 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-20 16:12:47.580 [main] MyStoreV1 - 
+***************TestCase checkout validation started*****************
+[INFO ] 2024-02-20 16:12:47.824 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-20 16:12:48.486 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-20 16:12:48.829 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-20 16:12:48.990 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-20 16:12:49.029 [main] MyStoreV1 - Cart quantity is greater than zero
+[INFO ] 2024-02-20 16:12:49.726 [main] MyStoreV1 - Clicked on continue on check out page
+[INFO ] 2024-02-20 16:12:49.841 [main] MyStoreV1 - Clicked on continue and enter first name check out page
+[INFO ] 2024-02-20 16:12:50.290 [main] MyStoreV1 - Clicked on continue and enter lastname name check out page
+[INFO ] 2024-02-21 10:33:53.184 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-21 10:33:53.220 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-02-21 10:33:53.426 [main] MyStoreV1 - User name entered
+[INFO ] 2024-02-21 10:33:53.568 [main] MyStoreV1 - password entered
+[INFO ] 2024-02-21 10:33:54.517 [main] MyStoreV1 - clicked om Login
+[INFO ] 2024-02-21 10:33:54.518 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-02-21 10:33:56.553 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-21 10:33:56.555 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-02-21 10:33:56.836 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-21 10:33:57.679 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-21 10:33:57.912 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-21 10:33:58.233 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-21 10:33:58.272 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
+[INFO ] 2024-02-21 10:34:00.446 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-21 10:34:00.449 [main] MyStoreV1 - 
+***************TestCase remove items from the cart started*****************
+[INFO ] 2024-02-21 10:34:00.757 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-21 10:34:01.714 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-21 10:34:01.977 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-21 10:34:02.161 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-21 10:34:02.215 [main] MyStoreV1 - Cart quantity is greater than zero
+[INFO ] 2024-02-21 10:34:02.420 [main] MyStoreV1 - clicked on remove button
+[INFO ] 2024-02-21 10:34:02.420 [main] MyStoreV1 - Removed Cart quantity is greater than zero
+[INFO ] 2024-02-21 10:34:02.420 [main] MyStoreV1 - ***************TestCase remove items from the cart ends*****************
+[INFO ] 2024-02-21 10:34:04.298 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-21 10:34:04.301 [main] MyStoreV1 - 
+***************TestCase cart items sort started*****************
+[INFO ] 2024-02-21 10:34:04.590 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-21 10:34:05.304 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-21 10:34:05.310 [main] MyStoreV1 - click on Name (A to Z) and fetch first value
+[INFO ] 2024-02-21 10:34:05.459 [main] MyStoreV1 - click on Name (z to a) and fetch last value
+[INFO ] 2024-02-21 10:34:05.663 [main] MyStoreV1 - click on Price (low to high) and fetch first value
+[INFO ] 2024-02-21 10:34:05.785 [main] MyStoreV1 - click on Price (high to low) and fetch last value
+[INFO ] 2024-02-21 10:34:05.934 [main] MyStoreV1 - ***************TestCase sort cart items from the cart ends*****************
+[INFO ] 2024-02-21 10:34:07.885 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-21 10:34:07.889 [main] MyStoreV1 - 
+***************TestCase checkout validation started*****************
+[INFO ] 2024-02-21 10:34:08.182 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-21 10:34:08.893 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-21 10:34:09.199 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-21 10:34:09.355 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-21 10:34:09.414 [main] MyStoreV1 - Cart quantity is greater than zero
+[INFO ] 2024-02-21 10:34:09.984 [main] MyStoreV1 - Clicked on continue on check out page
+[INFO ] 2024-02-21 10:34:10.079 [main] MyStoreV1 - Clicked on continue and enter first name check out page
+[INFO ] 2024-02-21 10:34:10.352 [main] MyStoreV1 - ***************TestCase check out validation ends*****************
+[INFO ] 2024-02-22 15:46:07.491 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-22 15:46:07.509 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-02-22 15:46:07.620 [main] MyStoreV1 - User name entered
+[INFO ] 2024-02-22 15:46:07.718 [main] MyStoreV1 - password entered
+[INFO ] 2024-02-22 15:46:08.439 [main] MyStoreV1 - clicked om Login
+[INFO ] 2024-02-22 15:46:08.439 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-02-22 15:46:10.972 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-22 15:46:10.974 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-02-22 15:46:11.194 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-22 15:46:11.737 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-22 15:46:11.964 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-22 15:46:12.155 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-22 15:46:12.224 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
+[INFO ] 2024-02-22 15:46:14.604 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-22 15:46:14.606 [main] MyStoreV1 - 
+***************TestCase remove items from the cart started*****************
+[INFO ] 2024-02-22 15:46:15.098 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-22 15:46:16.132 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-22 15:46:16.315 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-22 15:46:16.492 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-22 15:46:16.545 [main] MyStoreV1 - Cart quantity is greater than zero
+[INFO ] 2024-02-22 15:46:16.922 [main] MyStoreV1 - clicked on remove button
+[INFO ] 2024-02-22 15:46:16.922 [main] MyStoreV1 - Removed Cart quantity is greater than zero
+[INFO ] 2024-02-22 15:46:16.922 [main] MyStoreV1 - ***************TestCase remove items from the cart ends*****************
+[INFO ] 2024-02-22 15:46:19.587 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-22 15:46:19.587 [main] MyStoreV1 - 
+***************TestCase cart items sort started*****************
+[INFO ] 2024-02-22 15:46:19.854 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-22 15:46:20.700 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-22 15:46:20.716 [main] MyStoreV1 - click on Name (A to Z) and fetch first value
+[INFO ] 2024-02-22 15:46:20.853 [main] MyStoreV1 - click on Name (z to a) and fetch last value
+[INFO ] 2024-02-22 15:46:20.972 [main] MyStoreV1 - click on Price (low to high) and fetch first value
+[INFO ] 2024-02-22 15:46:21.070 [main] MyStoreV1 - click on Price (high to low) and fetch last value
+[INFO ] 2024-02-22 15:46:21.323 [main] MyStoreV1 - ***************TestCase sort cart items from the cart ends*****************
+[INFO ] 2024-02-22 15:46:23.591 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-22 15:46:23.592 [main] MyStoreV1 - 
+***************TestCase checkout validation started*****************
+[INFO ] 2024-02-22 15:46:23.928 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-22 15:46:24.592 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-22 15:46:24.789 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-22 15:46:25.086 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-22 15:46:25.125 [main] MyStoreV1 - Cart quantity is greater than zero
+[INFO ] 2024-02-22 15:46:25.461 [main] MyStoreV1 - Clicked on continue on check out page
+[INFO ] 2024-02-22 15:46:25.536 [main] MyStoreV1 - Clicked on continue and enter first name check out page
+[INFO ] 2024-02-22 15:46:25.729 [main] MyStoreV1 - ***************TestCase check out validation ends*****************
+[INFO ] 2024-02-22 15:46:27.611 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-22 15:46:27.614 [main] MyStoreV1 - 
+***************TestCase checkout remove items validation started*****************
+[INFO ] 2024-02-22 15:46:27.855 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-22 15:46:28.682 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-22 15:46:29.101 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-22 15:46:29.336 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-22 15:46:29.402 [main] MyStoreV1 - Cart quantity is greater than zero
+[INFO ] 2024-02-22 15:46:29.938 [main] MyStoreV1 - User is able to remove all items
+[INFO ] 2024-02-22 15:46:29.938 [main] MyStoreV1 - ***************TestCase check out remove item validation ends*****************
+[INFO ] 2024-02-26 15:56:39.695 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-26 15:56:39.711 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-02-26 15:56:39.825 [main] MyStoreV1 - User name entered
+[INFO ] 2024-02-26 15:56:39.898 [main] MyStoreV1 - password entered
+[INFO ] 2024-02-26 15:56:40.894 [main] MyStoreV1 - clicked om Login
+[INFO ] 2024-02-26 15:56:40.895 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-02-26 15:56:42.483 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-26 15:56:42.485 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-02-26 15:56:42.642 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-26 15:56:43.499 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-26 15:56:43.682 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-26 15:56:44.194 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-26 15:56:44.233 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
+[INFO ] 2024-02-26 15:56:45.799 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-26 15:56:45.801 [main] MyStoreV1 - 
+***************TestCase remove items from the cart started*****************
+[INFO ] 2024-02-26 15:56:45.944 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-26 15:56:47.990 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-26 15:56:48.166 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-26 15:56:48.267 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-26 15:56:48.300 [main] MyStoreV1 - Cart quantity is greater than zero
+[INFO ] 2024-02-26 15:56:48.445 [main] MyStoreV1 - clicked on remove button
+[INFO ] 2024-02-26 15:56:48.445 [main] MyStoreV1 - Removed Cart quantity is greater than zero
+[INFO ] 2024-02-26 15:56:48.445 [main] MyStoreV1 - ***************TestCase remove items from the cart ends*****************
+[INFO ] 2024-02-26 15:56:49.911 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-26 15:56:49.913 [main] MyStoreV1 - 
+***************TestCase cart items sort started*****************
+[INFO ] 2024-02-26 15:56:50.068 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-26 15:56:50.898 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-26 15:56:50.900 [main] MyStoreV1 - click on Name (A to Z) and fetch first value
+[INFO ] 2024-02-26 15:56:51.006 [main] MyStoreV1 - click on Name (z to a) and fetch last value
+[INFO ] 2024-02-26 15:56:51.105 [main] MyStoreV1 - click on Price (low to high) and fetch first value
+[INFO ] 2024-02-26 15:56:51.198 [main] MyStoreV1 - click on Price (high to low) and fetch last value
+[INFO ] 2024-02-26 15:56:51.296 [main] MyStoreV1 - ***************TestCase sort cart items from the cart ends*****************
+[INFO ] 2024-02-26 15:56:52.646 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-26 15:56:52.647 [main] MyStoreV1 - 
+***************TestCase checkout validation started*****************
+[INFO ] 2024-02-26 15:56:52.789 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-26 15:56:53.642 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-26 15:56:53.814 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-26 15:56:53.924 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-26 15:56:53.967 [main] MyStoreV1 - Cart quantity is greater than zero
+[INFO ] 2024-02-26 15:56:54.499 [main] MyStoreV1 - Clicked on continue on check out page
+[INFO ] 2024-02-26 15:56:54.576 [main] MyStoreV1 - Clicked on continue and enter first name check out page
+[INFO ] 2024-02-26 15:56:54.721 [main] MyStoreV1 - ***************TestCase check out validation ends*****************
+[INFO ] 2024-02-26 15:56:56.259 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-26 15:56:56.261 [main] MyStoreV1 - 
+***************TestCase checkout remove items validation started*****************
+[INFO ] 2024-02-26 15:56:56.405 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-26 15:56:57.246 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-26 15:56:57.399 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-26 15:56:57.504 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-26 15:56:57.534 [main] MyStoreV1 - Cart quantity is greater than zero
+[INFO ] 2024-02-26 15:56:57.678 [main] MyStoreV1 - User is able to remove all items
+[INFO ] 2024-02-26 15:56:57.678 [main] MyStoreV1 - ***************TestCase check out remove item validation ends*****************
+[INFO ] 2024-02-27 15:54:08.236 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-27 15:54:08.262 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-02-27 15:54:08.440 [main] MyStoreV1 - User name entered
+[INFO ] 2024-02-27 15:54:08.501 [main] MyStoreV1 - password entered
+[INFO ] 2024-02-27 15:54:09.669 [main] MyStoreV1 - clicked om Login
+[INFO ] 2024-02-27 15:54:09.669 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-02-27 15:54:11.863 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-27 15:54:11.865 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-02-27 15:54:12.366 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-27 15:54:13.174 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-27 15:54:13.654 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-27 15:54:14.069 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-27 15:54:14.119 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
+[INFO ] 2024-02-27 15:54:16.061 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-27 15:54:16.064 [main] MyStoreV1 - 
+***************TestCase remove items from the cart started*****************
+[INFO ] 2024-02-27 15:54:16.449 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-27 15:54:17.340 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-27 15:54:17.737 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-27 15:54:17.935 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-27 15:54:17.978 [main] MyStoreV1 - Cart quantity is greater than zero
+[INFO ] 2024-02-27 15:54:18.326 [main] MyStoreV1 - clicked on remove button
+[INFO ] 2024-02-27 15:54:18.326 [main] MyStoreV1 - Removed Cart quantity is greater than zero
+[INFO ] 2024-02-27 15:54:18.326 [main] MyStoreV1 - ***************TestCase remove items from the cart ends*****************
+[INFO ] 2024-02-27 15:54:20.031 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-27 15:54:20.036 [main] MyStoreV1 - 
+***************TestCase cart items sort started*****************
+[INFO ] 2024-02-27 15:54:20.539 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-27 15:54:21.346 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-27 15:54:21.354 [main] MyStoreV1 - click on Name (A to Z) and fetch first value
+[INFO ] 2024-02-27 15:54:21.475 [main] MyStoreV1 - click on Name (z to a) and fetch last value
+[INFO ] 2024-02-27 15:54:21.612 [main] MyStoreV1 - click on Price (low to high) and fetch first value
+[INFO ] 2024-02-27 15:54:21.831 [main] MyStoreV1 - click on Price (high to low) and fetch last value
+[INFO ] 2024-02-27 15:54:21.996 [main] MyStoreV1 - ***************TestCase sort cart items from the cart ends*****************
+[INFO ] 2024-02-27 15:54:23.796 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-27 15:54:23.797 [main] MyStoreV1 - 
+***************TestCase checkout validation started*****************
+[INFO ] 2024-02-27 15:54:24.036 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-27 15:54:24.731 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-27 15:54:25.125 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-27 15:54:25.328 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-27 15:54:25.379 [main] MyStoreV1 - Cart quantity is greater than zero
+[INFO ] 2024-02-27 15:54:25.944 [main] MyStoreV1 - Clicked on continue on check out page
+[INFO ] 2024-02-27 15:54:26.050 [main] MyStoreV1 - Clicked on continue and enter first name check out page
+[INFO ] 2024-02-27 15:54:26.402 [main] MyStoreV1 - ***************TestCase check out validation ends*****************
+[INFO ] 2024-02-27 15:54:28.094 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-27 15:54:28.095 [main] MyStoreV1 - 
+***************TestCase checkout remove items validation started*****************
+[INFO ] 2024-02-27 15:54:28.276 [main] MyStoreV1 - user name and password entered
+[INFO ] 2024-02-27 15:54:29.035 [main] MyStoreV1 - User is able to do login
+[INFO ] 2024-02-27 15:54:29.373 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2024-02-27 15:54:29.546 [main] MyStoreV1 - Clicked on bucket for proceeding to check out
+[INFO ] 2024-02-27 15:54:29.578 [main] MyStoreV1 - Cart quantity is greater than zero
+[INFO ] 2024-02-27 15:54:29.775 [main] MyStoreV1 - User is able to remove all items
+[INFO ] 2024-02-27 15:54:29.775 [main] MyStoreV1 - ***************TestCase check out remove item validation ends*****************
